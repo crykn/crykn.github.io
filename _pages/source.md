@@ -43,8 +43,12 @@ LibGDX offers a community-made setup tool, which automatically creates a project
 - [Wiki](https://github.com/libgdx/libgdx/wiki)
 - [Javadoc](https://libgdx.badlogicgames.com/ci/nightlies/docs/api/)
 
-# Tools
+# Tools & Frameworks
+## Tools
 https://libgdx.badlogicgames.com/tools.html
+
+## Frameworks
+awesome-list & discord resources?
 
 # Contributing
 ## Reporting an Issue
