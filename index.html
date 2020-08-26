@@ -45,11 +45,9 @@ feature_row4:
     btn_label: "Find out more"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Want to see some games?"
+  - title: "Want to see some games?"
     excerpt: 'Head over to our showcase section!'
-    url: "#test-link"
+    url: "/showcase/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -63,5 +61,9 @@ feature_row5:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+<div style="max-width: 600px !important; margin-left: auto; margin-right: auto;">
+      {% include carousel.html height="337" unit="px" duration="7" %}
+</div>
 
 {% include feature_row id="feature_row5" type="center" %}
