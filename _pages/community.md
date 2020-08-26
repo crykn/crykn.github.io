@@ -2,14 +2,33 @@
 permalink: /community/
 title: "Community"
 classes: wide
-#header:
-#  overlay_image: /assets/images/unsplash-image-1.jpg
-#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#  actions:
-#    - label: "Link to somewhere"
-#      url: "https://github.com"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/community.jpeg
+  actions:
+    - label: "Discord"
+      url: "https://discord.gg/6pgDK9F"
+  caption: "Photo credit: [**You X Ventures**](https://unsplash.com/photos/Oalh2MojUuk)"
+
+excerpt: "libGDX has a very active community. If you want to join us, feel free to come by our official discord server."
+
+feature_row:
+  - image_path: /assets/images/jams.jpeg
+    alt: "Game Jams"
+    title: "Game Jams"
+    excerpt: "Our community regularly offers game jams."
+    url: "/community/jams/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/forum.jpg
+    alt: "Forum"
+    title: "Forum"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/irc.jpg
+    alt: "IRC"
+    title: "IRC"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+{% include feature_row %}
