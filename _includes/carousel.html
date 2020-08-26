@@ -3,10 +3,10 @@
 
 <div class="carousel__holder">
     <div class="carousel">
-        {% for item in site.data.carousel.images %}
+        {% for elem in site.data.carousel.elements %}
           <input class="carousel__activator" type="radio" name="carousel" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
-        {% for item in site.data.carousel.images %}
+        {% for elem in site.data.carousel.elements %}
           {% if forloop.index == forloop.length %}
             {% assign nextindex = 0 %}
           {% else %}
@@ -26,13 +26,18 @@
         {% endfor %}
         <div class="carousel__track">
           <ul>
-            {% for item in site.data.carousel.images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+            {% for elem in site.data.carousel.elements %}
+             <li class="carousel__slide" style="background-image: url('{{ elem.image }}');">
+               <div class="overlay-fade-content" style="height: 100%;">
+                 <a href="{{ elem.link }}">{{ elem.title }}</a>
+               <div>
+             </li>
+
             {% endfor %}
           </ul>
         </div>
         <div class="carousel__indicators">
-            {% for item in site.data.carousel.images %}
+            {% for elem in site.data.carousel.elements %}
               <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>
             {% endfor %}
         </div>
@@ -53,7 +58,7 @@
 .carousel__activator {
   display: none;
 }
-{% for item in site.data.carousel.images %}
+{% for elem in site.data.carousel.elements %}
 .carousel__activator:nth-of-type({{ forloop.index }}):checked ~ .carousel__track {
   -webkit-transform: translateX(-{{ forloop.index0 }}00%);
           transform: translateX(-{{ forloop.index0 }}00%);
@@ -77,6 +82,40 @@
   opacity: 1;
 }
 {% endfor %}
+
+.overlay-fade-content:hover {
+  opacity: 1;
+  background-color: rgba(255,255,255,0.4);
+  transition: all 0.2s ease-in;
+}
+
+.overlay-fade-content {
+  opacity: 0;
+  background-color: rgba(255,255,255,0);
+}
+
+.overlay-fade-content a {
+  	box-sizing: border-box;
+  	text-decoration: none;
+    display: block;
+    color: #eeeeee;
+    background-color: #ff3b05;
+    text-align: center;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    height: 60px;
+    line-height: 25px;
+    position: absolute;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -145,17 +184,13 @@
   right: 0;
   opacity: 1;
 }
-{% for item in site.data.carousel.images %}
+{% for elem in site.data.carousel.elements %}
 .carousel__track .carousel__slide:nth-of-type({{ forloop.index }}) {
   -webkit-transform: translateX({{ forloop.index0 }}00%);
           transform: translateX({{ forloop.index0 }}00%);
 }
 {% endfor %}
 
-.carousel--scale .carousel__slide {
-  -webkit-transform: scale(0);
-          transform: scale(0);
-}
 .carousel__slide {
   height: 100%;
   position: absolute;
@@ -170,7 +205,7 @@
 .carousel__indicator {
   background-color: #fafafa;
 }
-{% for item in site.data.carousel.images %}
+{% for elem in site.data.carousel.elements %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
   background-size: cover;
