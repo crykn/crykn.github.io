@@ -2,7 +2,7 @@
 
 This repo is a community effort to try to bring the libGDX site up to date and make it representative of what libGDX is capable of. The deployed page can be found **[here](https://crykn.github.io/gdx-showcase/).**
 
-## Collaborating
+## Contributing
 If you want to collaborate, you first need to clone this repo.
 
 ### How do gh-pages work?
