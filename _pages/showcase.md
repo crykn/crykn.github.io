@@ -1,9 +1,9 @@
 ---
 title: Showcase
-layout: collection
+layout: page
 permalink: /showcase/
-collection: showcase
-entries_layout: grid
+#collection: showcase
+#entries_layout: grid
 classes: wide
 #header:
 #  overlay_image: /assets/images/unsplash-image-1.jpg
