@@ -1,10 +1,7 @@
 ---
 title: Showcase
-layout: page
+classes: wide2
 permalink: /showcase/
-#collection: showcase
-#entries_layout: grid
-classes: wide
 #header:
 #  overlay_image: /assets/images/unsplash-image-1.jpg
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -13,4 +10,4 @@ classes: wide
 #      url: "https://github.com"
 ---
 
-[Test]
+[ToDo; see community for some formatting ideas]

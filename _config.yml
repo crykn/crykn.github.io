@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-  
+
 github_username: username
 search: true
 
@@ -59,7 +59,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  
+
 #teaser: /assets/images/500x300.png #default teaser image for posts
 #og_image: /assets/images/site-logo.png #default open graph (=social media) image
 
@@ -88,7 +88,6 @@ defaults:
       share: true
       related: true
       show_date: true
-      classes: wide
   # _pages
   - scope:
       path: "_pages"
@@ -96,7 +95,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      classes: wide
 
 category_archive:
   type: liquid

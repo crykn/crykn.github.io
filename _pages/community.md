@@ -1,7 +1,7 @@
 ---
 permalink: /community/
 title: "Community"
-classes: wide
+classes: wide2
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -28,7 +28,7 @@ feature_row2:
     excerpt: "Our community regularly offers game jams for libGDX centered around different themes."
     url: "/community/jams/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/reddit.png
     alt: "Reddit"
@@ -36,14 +36,14 @@ feature_row3:
     excerpt: "LibGDX also has a friendly Reddit community. Feel free to join us."
     url: "https://www.reddit.com/r/libgdx/"
     btn_label: "Join Us"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/forum.jpeg
     alt: "Forum"
     title: "Forum"
     excerpt: "Our forums have been archived due to spam issues, but are still used as reference."
     url: "https://www.badlogicgames.com/forum/"
     btn_label: "Read Archived Forums"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/irc.jpeg
     alt: "IRC"
     title: "IRC"

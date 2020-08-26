@@ -1,7 +1,18 @@
 ---
 permalink: /source/
 title: "Source & Documentation"
-classes: wide
+classes: wide2
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/source.jpeg
+  caption: "Photo credit: [**Fotis Fotopoulos**](https://unsplash.com/photos/DuHKoV44prg)"
+  actions:
+    - label: "Github"
+      url: "https://github.com/libgdx/libgdx"
+    - label: "Wiki"
+      url: "https://github.com/libgdx/libgdx/wiki"
+
 toc: true
 toc_sticky: false # =not on top
 #header:
