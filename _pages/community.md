@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/discord.png
     alt: "Discord"
     title: "The Official Discord Sever"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'LibGDX also has a friendly Discord community. There are a number of channels, including but not limited to: screenshot sharing, question & answers, and kotlin discussions.'
     url: "https://discord.gg/6pgDK9F"
     btn_label: "Join Us"
     btn_class: "btn--primary"
@@ -25,7 +25,7 @@ feature_row2:
   - image_path: /assets/images/jams.jpeg
     alt: "Game Jams"
     title: "Game Jams"
-    excerpt: "Our community regularly offers game jams."
+    excerpt: "Our community regularly offers game jams for libGDX centered around different themes."
     url: "/community/jams/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -33,14 +33,14 @@ feature_row3:
   - image_path: /assets/images/reddit.png
     alt: "Reddit"
     title: "Reddit"
-    excerpt: "Join our Reddit community."
+    excerpt: "LibGDX also has a friendly Reddit community. Feel free to join us."
     url: "https://www.reddit.com/r/libgdx/"
     btn_label: "Join Us"
     btn_class: "btn--inverse"
   - image_path: /assets/images/forum.jpeg
     alt: "Forum"
     title: "Forum"
-    excerpt: "The forums have been archived, but can still be used as reference"
+    excerpt: "Our forums have been archived due to spam issues, but are still used as reference."
     url: "https://www.badlogicgames.com/forum/"
     btn_label: "Read Archived Forums"
     btn_class: "btn--inverse"
