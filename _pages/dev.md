@@ -30,7 +30,7 @@ toc_sticky: false # =not on top
 
 # How to get started with libGDX?
 ## Set up a new project
-LibGDX offers a community-made setup tool, which automatically creates a project and downloads everything necessary. You can download the setup tool [here](https://github.com/tommyettinger/gdx-liftoff/releases). Setup instruction can be found [here](/dev/setup/). See [here](/dev/running/) on how to get an imported project running.
+LibGDX offers a community-made setup tool, which automatically creates a project and downloads everything necessary. You can download the setup tool [here](https://github.com/tommyettinger/gdx-liftoff/releases). Setup instruction can be found [here](dev/setup/). See [here](dev/running/) on how to get an imported project running.
 
 ## First Game
 Our [wiki](https://github.com/libgdx/libgdx/wiki/A-Simple-Game) details how you can create your very first libGDX game. If you're new to game dev and have never developed a game before, take a look at this (even more straight-forward) [tutorial](http://tann.space/HelloLibgdx/) by tann.
@@ -46,7 +46,7 @@ The libGDX codebase is documented in two ways:
 
 # Tools & Frameworks
 ## Tools
-There are different tools that make the development process for libGDX easier. See [here](/dev/tools/) for a collection.
+There are different tools that make the development process for libGDX easier. See [here](dev/tools/) for a collection.
 
 ## Frameworks
 A curated list of our favourite frameworks can be found [here](https://github.com/rafaskb/awesome-libgdx). On our Discord server we also have an extensive collection of libGDX-centered frameworks that are currently work in progress.
@@ -57,7 +57,7 @@ A curated list of our favourite frameworks can be found [here](https://github.co
 Contributing to LibGDX can come in a few different forms, you can help out on our discord, pledge to the [patreon page](https://www.patreon.com/libgdx), or submit code and [documentation](https://github.com/libgdx/libgdx/wiki) back to the project on github.
 
 ## Reporting an Issue
-Please note the issue tracker isn't for personal assistance, if you have a problem that isn't a reproducable bug in the core framework, please use the [community](/community/) for assistance.
+Please note the issue tracker isn't for personal assistance, if you have a problem that isn't a reproducable bug in the core framework, please use the [community](community/) for assistance.
 {: .notice--primary}
 
 Before you report the issue on our issue tracker we ask you to do a few things:
@@ -70,7 +70,7 @@ Once you have done this, please submit this along with any stacktraces or assets
 ## Working from Source
 If you want to contribute to libGDX itself, you need to get it set up on your local machine. For this, Android Studio is strongly recommended as IDE!
 
-If you want to submit code back to the project, please take a moment to review our [guidelines](/dev/contributing/).
+If you want to submit code back to the project, please take a moment to review our [guidelines](dev/contributing/).
 
 ### Set Up
 1. Fork libGDX and clone the repo:
@@ -97,7 +97,7 @@ cd libgdx
      - Try running the LwjglTestStart class located in tests/gdx-tests/gdx-tests-lwjgl/src by right clicking and running
      - You should get assets not found when you try to run a test, edit the run configuration and point it to the correct assets folder (tests/gdx-tests-android/assets)
 
-![](/assets/images/dev/source/0.png)
+![](assets/images/dev/source/0.png)
 
   b) Via Eclipse: File > Import > Gradle > Gradle project
 
@@ -120,4 +120,4 @@ mvn install
 This will build and install LibGDX and all core components to your local maven repository with the current version declared in the pom.xml files.
 
 ### Natives
-If you want to build the libGDX natives yourself, you can find [instructions](/dev/natives/) here.
+If you want to build the libGDX natives yourself, you can find [instructions](dev/natives/) here.

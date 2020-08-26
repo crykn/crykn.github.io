@@ -20,11 +20,11 @@ This article explains how you can get your imported projects running.
 2. Select 'Run DesktopLauncher.main()'. This should fail with missing assets, because we need to hook up the assets folder first.
 3. Open up Run Configurations
 
-![](/assets/images/dev/idea/0.png)
+![](assets/images/dev/idea/0.png)
 
 4. Edit the Run Configuration that was just created by running the desktop project and set the working directory to point to your `core/assets` folder
 
-![](/assets/images/dev/idea/1.png)
+![](assets/images/dev/idea/1.png)
 
 5. Run your application using the run button
 
@@ -33,7 +33,7 @@ This article explains how you can get your imported projects running.
 2. Click the sources tab, and click 'Add Folder'
 3. Select the assets folder and hit OK.
 
-![](/assets/images/dev/eclipse/0.png)
+![](assets/images/dev/eclipse/0.png)
 
 4. Right click your desktop project > Run as > Java Application
 
@@ -54,7 +54,7 @@ Right click the desktop project > Run
 1. Open Run/Debug Configurations
 2. Create a new run configuration for a RoboVM iOS application
 
-![](/assets/images/dev/idea/2.png)
+![](assets/images/dev/idea/2.png)
 
 3. Select the provisioning profile and simulator/device target
 4. Run the created run configuration
@@ -67,7 +67,7 @@ NOTE: The documentation is for the 'Official' RoboVM plugin, we currently use a 
 ## Eclipse
 - Right click the iOS RoboVM project > Run As > RoboVM runner of your choice
 
-![](/assets/images/dev/eclipse/1.png)
+![](assets/images/dev/eclipse/1.png)
 
 For more information on using and configuring the RoboVM intellij plugin please see the [documentation](http://robovm.mobidevelop.com).
 
@@ -92,7 +92,7 @@ To do so, open up your favourite shell or terminal, change directory to the proj
 
 You should see lots of text wizzing by, and if all goes well you should see the following line at the end:
 
-![](/assets/images/dev/html/0.png)
+![](assets/images/dev/html/0.png)
 
 You can then go to [`http://localhost:8080/index.html`](http://localhost:8080/index.html), to see your application running, with a recompile button.
 
@@ -126,4 +126,4 @@ All the targets can be run and deployed to via the command line interface.
 <br/>
 
 # What to do next?
-Now that you're done with the set up, you can get to do some real coding. See [here](/dev/) for some pointers on where to start.
+Now that you're done with the set up, you can get to do some real coding. See [here](dev/) for some pointers on where to start.
