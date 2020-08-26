@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: libGDX
+title: "libGDX"
+minimal_mistakes_skin: default
+
 title_separator: "|"
 logo: "/assets/images/logo.png"
-masthead_title: ""
+masthead_title: " "
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,7 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
   
 github_username: username
-minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -72,7 +73,7 @@ footer:
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/6pgDK9F"
     - label: "Wiki"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://github.com/libgdx/libgdx/wiki"
 
 defaults:
