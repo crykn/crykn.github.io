@@ -1,7 +1,7 @@
 images:
-  - image: /assets/images/game0.png
-  - image: /assets/images/game1.png
-  - image: /assets/images/game2.png
-  - image: /assets/images/game3.png
-  - image: /assets/images/game4.png
-  - image: /assets/images/game5.png
+  - image: assets/images/game0.png
+  - image: assets/images/game1.png
+  - image: assets/images/game2.png
+  - image: assets/images/game3.png
+  - image: assets/images/game4.png
+  - image: assets/images/game5.png
