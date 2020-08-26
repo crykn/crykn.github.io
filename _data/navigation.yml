@@ -6,6 +6,6 @@ main:
   - title: "Showcase"
     url: /showcase/
   - title: "Source & Documentation"
-    url: /source/
+    url: /dev/
   - title: "Community"
     url: /community/
