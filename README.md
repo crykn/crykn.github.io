@@ -5,7 +5,7 @@ This repo is a community effort to try to bring the libGDX site up to date and m
 ## Collaborating
 If you want to collaborate, you first need to clone this repo.
 
-### How to gh-pages work?
+### How do gh-pages work?
 This page is a [Jekyll](https://jekyllrb.com/docs/github-pages/) blog, hosted via GitHub Pages. All pages and posts  need to have a YAML frontmatter for example this one:
 
 ```
@@ -16,7 +16,7 @@ permalink: /best_url_path_4_ever/
 
 after that, everything can be written in **markdown**. Github offers a very nice explanation on how one can add posts and pages: https://docs.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll
 
-The minimal mistakes theme, that is used here, also supports some nice features (galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#header-overlay), [tables of content](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#table-of-contents)), which are detailed here: https://mmistakes.github.io/minimal-mistakes/docs/quick-sb
+The minimal mistakes theme, that is used here, also supports some nice features ([galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#header-overlay), [tables of content](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#table-of-contents)), which are detailed here: https://mmistakes.github.io/minimal-mistakes/docs/quick-sb
 
 
 ### Deploy locally
