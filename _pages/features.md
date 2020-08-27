@@ -51,7 +51,7 @@ _libGDX comes with batteries included. Write 2D or 3D games and let libGDX worry
 _Unlike many popular editor-based platforms, libGDX is entirely code-centric, offering developers fine-grain control over every aspect of their game._
 
 - **Freedom:** While libGDX gives you access to various different tools and abstractions, you can still access the underlying base. LibGDX doesn't force you too use certain tools or coding styles: you are free to do whatever you want!
-- **Open Source:** LibGDX is licensed under Apache 2.0 and maintained by the community, so you can take a look [under the hood](http://www.github.com/libgdx/libgdx) and see how everything works.
+- **Open Source:** LibGDX is licensed under Apache 2.0 and maintained by the community, so you can take a look [under the hood](https://github.com/libgdx/libgdx) and see how everything works.
 - **Java:** Since libGDX uses Java, you can profit from the wide java ecosystem – Powerful IDEs, out-of-the-box support for Git, fined-tuned debuggers, performance profilers, an an abundance of well tried frameworks, as well as many resources and extensive documentation.
 
 <br/>
