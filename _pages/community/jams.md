@@ -9,18 +9,34 @@ header:
   caption: "Photo credit: [**Sincerely Media**](https://unsplash.com/photos/v0msYhZq2RU)"
 
 excerpt: "Our community is also regularly hosting game jams for libGDX. Here is a list of our past and upcoming jams:"
+
+toc: true
+toc_sticky: false
 ---
-## **September 2020:**
-* Theme Suggestions: 6th - 12th
-* Theme Voting: 13th - 19th
-* Jam: 20th - 26th
-
-## **December 2020:**
-* Theme Suggestions: 6th - 12th
-* Theme Voting: 13th - 19th
-* Jam: 20th - 26th
-
+# Upcoming
 If you want to stay up to date – join the official [libGDX discord](https://discord.gg/6pgDK9F)!
+
+## September 2020
+* Theme Suggestions: 6th - 12th
+* Theme Voting: 13th - 19th
+* Jam: 20th - 26th
+
+## December 2020
+* Theme Suggestions: 6th - 12th
+* Theme Voting: 13th - 19th
+* Jam: 20th - 26th
+
+<br/>
+
+# Rules
+We encourage camaraderie, teamwork, and good sportsmanship with a side of well-intentioned buffoonery. Nonetheless, there are some rules to be followed:
+
+- The game must be created with the libGDX framework.
+- The game must be created within the jam period.
+- Starter projects and templates are permitted, so long as they are not fully fledged games.
+- You can work in groups or individually.
+- Your game must be based on the selected theme.
+- Any and all copyright laws pertaining to assets used must be followed.
 
 <br/>
 
@@ -29,7 +45,7 @@ If you want to stay up to date – join the official [libGDX discord](https://di
 * [Tower Defense Without Towers](https://itch.io/jam/libgdx-jam-june-2020) (June 2020)
 * [GLOBAL THERMONUCLEAR WAR](https://itch.io/jam/libgdx-jam-march-2020) (March 2020)
 * [THE WORLD IS FOOD](https://itch.io/jam/libgdx-jam-december-2019) (December 2019)
-* [HALLOWEEN](https://itch.io/jam/libgdx-jam-october-2019) (October 2019)
+* [Halloween](https://itch.io/jam/libgdx-jam-october-2019) (October 2019)
 * [Upside Down](https://libgdxjam.com/entries.php?jid=7) (April 2019)
 * [Energy](https://libgdxjam.com/entries.php?jid=6) (February 2019)
 * [Time](https://libgdxjam.com/entries.php?jid=5) (October 2018)
