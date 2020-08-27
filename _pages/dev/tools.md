@@ -40,7 +40,7 @@ feature_row2:
   - image_path: /assets/images/dev/tools/hyperlap.gif
     title: "HyperLap2D"
     excerpt: 'A visual editor for complex 2D worlds and scenes'
-    url: "https://github.com/raeleus/skin-composer/wiki"
+    url: "https://github.com/rednblackgames/HyperLap2D"
     btn_label: "Documentation & Download"
     btn_class: "btn--primary"
   - image_path: /assets/images/dev/tools/texture_packer.jpeg
