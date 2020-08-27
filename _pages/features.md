@@ -41,8 +41,8 @@ _libGDX comes with batteries included. Write 2D or 3D games, let libGDX worry ab
 
 - LibGDX provides you with everything you need for proper **2D development** right out of the box.
 - **3D Graphics** are also supported via various high-level APIs. Take a look at our [showcase](/showcase/) to see some 3D games made with libGDX.
-- **Small game sizes:** libGDX games can be very small – ranging from
 - **Super Fast:** Heavy emphasis was put on avoiding garbage collection for Dalvik/JavaScript by careful API design and the use of custom collections.
+- **Small game sizes:** libGDX games can be very small – starting from around a couple MBs for Android games and even less than <60 MB for desktop projects with a bundled JRE
 
 <br/>
 
