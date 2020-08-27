@@ -38,12 +38,12 @@ The libGDX codebase is documented in two ways:
 
 <br/>
 
-# Tools & Frameworks
+# Tools & Libraries
 ## Tools
 There are different tools that make the development process for libGDX easier. See our [tools list](/dev/tools/) for some of the most commonly used ones.
 
-## Frameworks
-A curated list of our favourite frameworks can be found at [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx). On our Discord server we also have an extensive collection of libGDX-centered frameworks that are currently work in progress.
+## Libraries
+A curated list of our favourite libraries can be found at [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx). On our Discord server we also have an extensive collection of libGDX-centered libraries that are currently work in progress.
 
 <br/>
 
