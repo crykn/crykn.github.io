@@ -17,10 +17,10 @@ toc: true
 toc_sticky: false # =not on top
 ---
 
-The following entry details how to get your fist libGDX project up and running.
+If this is your first time using libGDX, you're at the right place. The following article details how you can get your fist libGDX project up and running.
 
 # I. Getting a Proper Development Environment
-The java world offers a lot of different IDEs (Integrated Development Environments) which make developing java applications quite convenient. Choose whichever you like most.
+First off, you need an IDE (Integrated Development Environments), basically an editor for your java files, which makes developing java applications more convenient in various ways. The java world offers a lot of different IDEs, so feel free to choose whichever you like most:
 
 ## (1.) IDEA
 - [JDK 8+](https://adoptopenjdk.net)
@@ -54,10 +54,10 @@ The java world offers a lot of different IDEs (Integrated Development Environmen
 <br/>
 
 # II. Creating a New Project
-Run the [downloaded JAR file](https://github.com/tommyettinger/gdx-liftoff/releases), either by double clicking or via the command line: `java -jar gdx-liftoff.jar`.
+To setup your first project and download the necessary dependencies, libGDX offers a community-made setup tool. You can download the setup tool on the [gdx-liftoff page](https://github.com/tommyettinger/gdx-liftoff/releases). Run the downloaded JAR file, either by double clicking or via the command line: `java -jar gdx-liftoff.jar`.
 
 ## Different platforms:
-Plug in whatever options you see fit:
+Then, plug in whatever options you see fit:
 - **Desktop and/or LWJGL3** should usually be checked, so you can test on the same computer you develop on.
   - LWJGL3 is almost the same as Desktop, but because it has better support for new hardware (such as high-DPI displays), it should probably be preferred. It also allows multiple windows and drag+drop.
   - Desktop should mostly be preferred if you need to also depend on gdx-tools, such as if you need to run the texture packer at runtime. Some machines have issues with an inconsistent or very high framerate with LWJGL3, and using the "Legacy" desktop can fix that.
@@ -85,14 +85,15 @@ If you aren't interested in any extensions, etc. you can skip the next few subse
 <br/>
 
 # III. Finishing the project generation
-Click generate, and very soon a window should pop up with instructions for what to do. Generation is very fast here.
+Click generate, and very soon a window should pop up with instructions for what to do. (Generation is very fast here.) Now you'll have a project all set up with a sample.
 
 <br/>
 
 # IV. Importing the Project
-Now you'll have a project all set up with a sample. In **IntelliJ IDEA or Android Studio**, you can choose to open the `build.gradle` file and select "Open as Project" to get started. In **Eclipse**, choose `File -> Import -> Gradle`, in Netbeans `File -> Open Project`.
+Lastly, you need to import your project into your IDE.
 
-You may need to refresh the Gradle project after the initial import.
-In **IntelliJ IDEA/Android Studio**, the `Reimport all Gradle projects` button is a pair of circling arrows in the Gradle tool window, which can be opened with `View -> Tool Windows -> Gradle`. In **Eclipse** right click on your project `Gradle -> Refresh Gradle Project`.
+In **IntelliJ IDEA or Android Studio**, you can choose to open the `build.gradle` file and select "Open as Project" to get started. In **Eclipse**, choose `File -> Import -> Gradle`, in Netbeans `File -> Open Project`.
 
-Now you need to get your project [running](/dev/running/).
+You may need to refresh the Gradle project after the initial import, if some dependencies weren't downloaded yet. In **IntelliJ IDEA/Android Studio**, the `Reimport all Gradle projects` button is a pair of circling arrows in the Gradle tool window, which can be opened with `View -> Tool Windows -> Gradle`. In **Eclipse** right click on your project `Gradle -> Refresh Gradle Project`.
+
+Now you can focus on getting your project [running](/dev/running/).

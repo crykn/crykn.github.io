@@ -36,17 +36,26 @@ feature_row3:
 
 {% include feature_row id="feature_row3" type="left" %}
 
+# Feature Packed
+_libGDX comes with batteries included. Write 2D or 3D games, let libGDX worry about low-level details._
 
-  - title: "Open Source"
-    excerpt: "libGDX is licensed under Apache 2.0 and maintained by the community. Contribute today!"
-  - title: "Feature Packed"
-    excerpt: "Comes with batteries included. Write 2D or 3D games, let libGDX worry about low-level details."
-  - title: "Another Great Feature"
-    excerpt: "But is it?"
+- LibGDX provides you with everything you need for proper **2D development** right out of the box.
+- **3D Graphics** are also supported via various high-level APIs. Take a look at our [showcase](/showcase/) to see some 3D games made with libGDX.
+- **Small game sizes:** libGDX games can be very small – ranging from
+- **Super Fast:** Heavy emphasis was put on avoiding garbage collection for Dalvik/JavaScript by careful API design and the use of custom collections.
 
-  - title: "Super Fast"
-    excerpt: "Heavy emphasis on avoiding garbage collection for Dalvik/JavaScript by careful API design and the use of custom collections."
-  - title: "Documentation"
-    excerpt: "Learn libGDX inside out on the Wiki, study the Javadocs, or read a third-party tutorial. Learn from example code and demos."
-  - title: "A Great Community"
-    excerpt: "Get support from a big and growing community of game and application developers."
+<br/>
+
+# Do whatever you want
+_Unlike many popular editor-based platforms, libGDX is entirely code-centric, offering developers fine-grain control over every aspect of their game._
+
+- **Freedom:** While libGDX gives you access to various different tools and abstractions, you can still access the underlying base. LibGDX doesn't force you too use certain tools or coding styles: you are free to do whatever you want!
+- **Open Source:** LibGDX is licensed under Apache 2.0 and maintained by the community, so you can take a look [under the hood](http://www.github.com/libgdx/libgdx) and see how everything works.
+- **Java:** Since libGDX uses Java, you can profit from the wide java ecosystem – Powerful IDEs, out-of-the-box support for Git, fined-tuned debuggers, performance profilers, an an abundance of well tried frameworks, as well as many resources and extensive documentation.
+
+<br/>
+
+# And...
+**...a Great Community!** Get support from a very friendly [community](/community/) of game and application developers or use any of the frameworks and tools created by members of our community. Join us today and get started with your very first libGDX game!
+
+<center><a href="/dev/setup/" class="btn btn--primary btn--large">Get Started!</a></center>
