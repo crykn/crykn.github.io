@@ -118,7 +118,14 @@ The discovery of XM, a mysterious resource of unknown origin, has sparked a cove
 
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
+## [Shattered Pixel Dungeon](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) by Shattered Pixel <a href="https://github.com/00-Evan/shattered-pixel-dungeon" style="margin-left: 10px" class="btn btn--primary">Also on GitHub</a>
+<img align="right" src="https://play-lh.googleusercontent.com/vxGKNb1du2IiJdMaheI2UwE6m28QjrfCZtbO88ryI9Ipd984RbAO1Ph9o7nuvqXWEw=s180-r" style="margin-left: 25px; margin-top: 17px; margin-bottom:10px">
+
+Shattered Pixel Dungeon is a Roguelike RPG, with pixel art graphics and lots of variety and replayability. Every game is unique, with four different playable characters, randomized levels and enemies, and over 150 items to collect and use. The game is simple to get into, but has lots of depth. Strategy is required if you want to win!
+
+<div style="clear: both;with: 100%; height: 1px;"></div>
+
 ## [Zombie Age 3](https://play.google.com/store/apps/details?id=com.redantz.game.zombie3&hl=en) by DIVMOB
-<img align="right" src="https://lh3.googleusercontent.com/THOjbVCttr68beqrv0G-bxiWd_rY8WEAtQTlTCDfzvQw0uMKsO-uFq0pVcH0CJrMlw=s180-r" style="margin-left: 25px; margin-top: 17px; margin-bottom:10px">
+<img align="left" src="https://lh3.googleusercontent.com/THOjbVCttr68beqrv0G-bxiWd_rY8WEAtQTlTCDfzvQw0uMKsO-uFq0pVcH0CJrMlw=s180-r" style="margin-right: 25px; margin-top: 17px; margin-bottom:10px">
 
 The awesome Zombie Age series returns with a lot more of savage zombies, deadly weapons and unique heroes. Enjoy the zombie slaughter with your own style. And If you’re about to look for a stunning zombie shooting game, look no further!
