@@ -4,9 +4,10 @@ title: "Features"
 classes: wide2
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/index.jpeg
-  caption: "Photo credit: [**Florian Olivo**](https://unsplash.com/photos/Ek9Znm8lQ1U)"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/features.jpg
+  caption: "Photo credit: [**Residual by Orangepixel**](https://store.steampowered.com/app/1290780/Residual/)"
+excerpt: "LibGDX is a Java game development framework that provides a unified API that works across all supported platforms."
 
 intro:
   - excerpt: 'libGDX is an open-source, cross-platform game development framework built in Java. Unlike many popular editor-based platforms, libGDX is entirely code-centric, offering developers fine-grain control over every aspect of their game. It is the perfect place for exploring ground-up implementations, built on top of lightning-fast OpenGL, and distributable to Desktop, HTML, Android, and iOS.'

@@ -7,9 +7,6 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/showcase.jpg
   caption: "Photo credit: [**Pathway by Robotality**](https://store.steampowered.com/app/546430/Pathway/)"
-
-toc: true
-toc_sticky: false
 ---
 # Prominent libGDX Games
 The following collection of games built with libGDX give an impression of what the framework is capable of.

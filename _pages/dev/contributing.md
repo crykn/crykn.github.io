@@ -5,8 +5,8 @@ classes: wide2
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/dev/setup.jpeg
-  caption: "Photo credit: [**Pankaj Patel**](https://unsplash.com/photos/bYiw48KLbmw)"
+  overlay_image: /assets/images/dev/dev.jpeg
+  caption: "Photo credit: [**Florian Olivo**](https://unsplash.com/photos/Ek9Znm8lQ1U)"
 
 toc: true
 toc_sticky: false # =not on top

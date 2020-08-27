@@ -5,8 +5,8 @@ classes: wide2
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/dev/tools.jpeg
-  caption: "Photo credit: [**Marvin Meyer**](https://unsplash.com/photos/SYTO3xs06fU)"
+  overlay_image: /assets/images/dev/dev.jpeg
+  caption: "Photo credit: [**Florian Olivo**](https://unsplash.com/photos/Ek9Znm8lQ1U)"
 ---
 
 # libGDX 1.9.11
