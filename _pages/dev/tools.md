@@ -31,10 +31,10 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/dev/tools/hiero.png
-    title: "Hiero"
-    excerpt: 'A bitmap font packing tool'
-    url: "https://github.com/libgdx/libgdx/wiki/Hiero"
+  - image_path: /assets/images/dev/tools/talos.jpg
+    title: "Talos"
+    excerpt: 'A node based, open source VFX Editor with powerful interface'
+    url: "https://talosvfx.com"
     btn_label: "Documentation & Download"
     btn_class: "btn--primary"
   - image_path: /assets/images/dev/tools/hyperlap.gif
@@ -51,6 +51,12 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
+  - image_path: /assets/images/dev/tools/hiero.png
+    title: "Hiero"
+    excerpt: 'A bitmap font packing tool'
+    url: "https://github.com/libgdx/libgdx/wiki/Hiero"
+    btn_label: "Documentation & Download"
+    btn_class: "btn--primary"
   - image_path: /assets/images/dev/tools/fbx_conv.gif
     title: "fbx-conv"
     excerpt: 'A command line for converting FBX/Collada/Obj to libGDX friendly formats'

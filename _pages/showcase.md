@@ -125,10 +125,26 @@ TFD is a unique hybrid of tactical RPG and roguelike. Manage a party of adventur
 
 The awesome Zombie Age series returns with a lot more of savage zombies, deadly weapons and unique heroes. Enjoy the zombie slaughter with your own style. And If you’re about to look for a stunning zombie shooting game, look no further!
 
+<div style="clear: both;with: 100%; height: 1px;"></div>
+
+## [Deep Town](https://play.google.com/store/apps/details?id=com.rockbite.deeptown&hl=en) by Rockbite Games
+<img align="left" src="https://play-lh.googleusercontent.com/LWZCyc_QVaXX1PBj3qByh38mc5ppWq3ZzevM8C4U13exF6JKMyO_JW9PEXSHZJ51Msw=w460-h215-r" style="margin-right: 25px; margin-top: 17px; margin-bottom:10px">
+
+DIG DEEP and uncover the hidden story behind Deep Town and along the way discover story artifacts, dig deeper, and build mining stations to produce more resources!
+
+<div style="clear: both;with: 100%; height: 1px;"></div>
+
 ## [Epic Heroes War](https://play.google.com/store/apps/details?id=com.divmob.ageofheroes.braveheroes.battleheroes.epicheroeswar.epicheroes.en&hl=en) by DIVMOB
-<img align="left" src="https://play-lh.googleusercontent.com/2DsYF54m5GVjUVAuBedCfIw-O3F-sVo56FcDwwuQYz-aekdRwESRuXkNDDEF9Xc-kN8=w460-h215-r" style="margin-right: 25px; margin-top: 17px; margin-bottom:10px">
+<img align="right" src="https://play-lh.googleusercontent.com/2DsYF54m5GVjUVAuBedCfIw-O3F-sVo56FcDwwuQYz-aekdRwESRuXkNDDEF9Xc-kN8=w460-h215-r" style="margin-left: 25px; margin-top: 17px; margin-bottom:10px">
 
 Epic Heroes War is a real-time strategy game, online side-scroller defense combines RPG. Build up a powerful army and slaughter enemy hordes in quests and battles with other players!
+
+<div style="clear: both;with: 100%; height: 1px;"></div>
+
+## [Sandship](https://play.google.com/store/apps/details?id=com.rockbite.sandship&hl=en) by Rockbite Games
+<img align="left" src="https://play-lh.googleusercontent.com/zVcowfZOhVnUaYCRDu5YkLTczk7eHG2JeVoHZ36aY249O1I0Mm2e_f_IqzPsDNzUug=w460-h215-r" style="margin-right: 25px; margin-top: 17px; margin-bottom:10px">
+
+Sandship is a factory management game set in a post-apocalyptic sci-fi universe. You control the last remaining sandship: a gigantic, artificially intelligent mega-factory, which roams across the endless deserts of a far-away planet.
 
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
@@ -139,10 +155,10 @@ Shattered Pixel Dungeon is a Roguelike RPG, with pixel art graphics and lots of 
 
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
-## [Ingress](http://www.ingress.com) (before Prime) by Google
+## [Ingress](http://www.ingress.com) by Google
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ingress_Logo_vector.svg/210px-Ingress_Logo_vector.svg.png" style="margin-right: 25px; margin-top: 17px; margin-bottom:10px">
 
-The discovery of XM, a mysterious resource of unknown origin, has sparked a covert struggle between two distinct Factions. Choose your side and band together with Agents of your Faction to hold your ground, share resources, and explore this strange world.
+[Before Ingress Prime!] The discovery of XM, a mysterious resource of unknown origin, has sparked a covert struggle between two distinct Factions. Choose your side and band together with Agents of your Faction to hold your ground, share resources, and explore this strange world.
 
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
