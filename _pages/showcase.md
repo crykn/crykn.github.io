@@ -68,14 +68,14 @@ Survive and explore a procedurally generated planet and cave-system. Discover ol
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
 ## [riiablo](https://github.com/collinsmith/riiablo) by collinsmith <a href="https://github.com/collinsmith/riiablo" style="margin-right: 10px" class="btn btn--primary">Also on GitHub</a> <span style="margin-left: 10px" class="btn btn--success">3D</span>
-<img align="left" src="https://media.giphy.com/media/f3pIneZddlMaFpFExx/giphy.gif" style="margin-right: 25px; margin-top: 17px; margin-bottom:20px">
+<img align="left" src="https://media.giphy.com/media/f3pIneZddlMaFpFExx/giphy.gif" style="margin-right: 25px; margin-top: 17px; margin-bottom:20px; max-width: 460px; max-height: 240px;">
 
 Diablo II remade using Java and libGDX. As a hero of humanity, you must face the minions of Diablo's evil brothers and stop the Dark Wanderer before he fulfills his terrible destiny.
 
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
 ## [Mirage Realms](http://www.miragerealms.co.uk/devblog/) by Liam Stewart
-<img align="right" src="https://lh3.googleusercontent.com/Vkaw_v_I5YoSnz8ODNAjLAqY787ExDnufAnD-bYzgo1ID-ki0RytX32j0aQxmKpLgQ=s180-r" style="margin-left: 25px; margin-top: 17px; margin-bottom:10px">
+<img align="right" src="http://www.miragerealms.co.uk/devblog/wp-content/uploads/2020/06/online-notification.png" style="margin-left: 25px; margin-top: 17px; margin-bottom:10px; max-width: 460px; max-height: 240px;">
 
 Mirage Realms is an ambitious solo project to produce a free to play MMORPG for the Android and Desktop platforms.
 
@@ -110,7 +110,7 @@ Explore a huge universe on your journey on behalf of the Stellar Union. Trade wi
 
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
-## [Transfinite Dungeon](https://store.steampowered.com/app/1290750/Transfinite_Dungeon/) by icefall
+## [Transfinite Dungeon](https://store.steampowered.com/app/1290750/Transfinite_Dungeon/) by icefill
 <img align="left" src="https://steamcdn-a.akamaihd.net/steam/apps/1290750/header.jpg?t=1596793004" style="margin-right: 25px; margin-top: 17px; margin-bottom:10px">
 
 TFD is a unique hybrid of tactical RPG and roguelike. Manage a party of adventurers and use the environment to your advantage to conquer the dungeon.

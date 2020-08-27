@@ -11,6 +11,26 @@ header:
 excerpt: "There are different tools – both official and community-made – that make the development process for libGDX easier."
 
 feature_row:
+  - image_path: /assets/images/dev/tools/spine.jpg
+    title: "Spine"
+    excerpt: 'An animation tool that focuses specifically on 2D game animations'
+    url: "http://en.esotericsoftware.com/"
+    btn_label: "Documentation & Download"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/dev/tools/talos.jpg
+    title: "Talos"
+    excerpt: 'A node based, open source VFX Editor with powerful interface'
+    url: "https://talosvfx.com"
+    btn_label: "Documentation & Download"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/dev/tools/hyperlap.gif
+    title: "HyperLap2D"
+    excerpt: 'A visual editor for complex 2D worlds and scenes'
+    url: "https://github.com/rednblackgames/HyperLap2D"
+    btn_label: "Documentation & Download"
+    btn_class: "btn--primary"
+
+feature_row2:
   - image_path: /assets/images/dev/tools/skin_composer.png
     title: "Skin Composer"
     excerpt: 'A skin creator for libGDX'
@@ -30,26 +50,6 @@ feature_row:
     btn_label: "Documentation & Download"
     btn_class: "btn--primary"
 
-feature_row2:
-  - image_path: /assets/images/dev/tools/talos.jpg
-    title: "Talos"
-    excerpt: 'A node based, open source VFX Editor with powerful interface'
-    url: "https://talosvfx.com"
-    btn_label: "Documentation & Download"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/dev/tools/hyperlap.gif
-    title: "HyperLap2D"
-    excerpt: 'A visual editor for complex 2D worlds and scenes'
-    url: "https://github.com/rednblackgames/HyperLap2D"
-    btn_label: "Documentation & Download"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/dev/tools/texture_packer.jpeg
-    title: "Texture Packer"
-    excerpt: 'A tool for packing images into atlases'
-    url: "https://github.com/libgdx/libgdx/wiki/Texture-packer"
-    btn_label: "Documentation & Download"
-    btn_class: "btn--primary"
-
 feature_row3:
   - image_path: /assets/images/dev/tools/hiero.png
     title: "Hiero"
@@ -63,6 +63,13 @@ feature_row3:
     url: "https://github.com/libgdx/fbx-conv"
     btn_label: "Documentation & Download"
     btn_class: "btn--primary"
+  - image_path: /assets/images/dev/tools/texture_packer.jpeg
+    title: "Texture Packer"
+    excerpt: 'A tool for packing images into atlases'
+    url: "https://github.com/libgdx/libgdx/wiki/Texture-packer"
+    btn_label: "Documentation & Download"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row %}
