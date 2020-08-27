@@ -19,7 +19,7 @@ excerpt: "LibGDX is hosted on Github, where all team members collaborate. Fork, 
 
 
 toc: true
-toc_sticky: false # =not on top
+toc_sticky: false
 #header:
 #  overlay_image: /assets/images/unsplash-image-1.jpg
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -54,15 +54,15 @@ A curated list of our favourite frameworks can be found [here](https://github.co
 <br/>
 
 # Contributing to libGDX
-Contributing to LibGDX can come in a few different forms, you can help out on our discord, pledge to the [patreon page](https://www.patreon.com/libgdx), or submit code and [documentation](https://github.com/libgdx/libgdx/wiki) back to the project on github.
+Contributing to LibGDX can come in a few different forms, you can help out on our discord, pledge to the [patreon page](https://www.patreon.com/libgdx), or submit [code](https://github.com/libgdx/libgdx/) and [documentation](https://github.com/libgdx/libgdx/wiki) back to the project on github.
 
 ## Reporting an Issue
 Please note the issue tracker isn't for personal assistance, if you have a problem that isn't a reproducable bug in the core framework, please use the [community](/community/) for assistance.
 {: .notice--primary}
 
-Before you report the issue on our issue tracker we ask you to do a few things:
-- Verify that the task hasn't already been reported on the tracker
-- Make sure the bug hasn't already been fixed, use the latest SNAPSHOT of LibGDX to latest
+Before you report an issue on our issue tracker, we ask you to do a few things:
+- Verify that the problem hasn't already been reported on the tracker
+- Make sure the bug hasn't already been fixed. Use the latest SNAPSHOT of LibGDX to try to reproduce your issue
 - Create a self contained example to demonstrate the issue. Don't hack a project down, start fresh to reproduce the error.
 
 Once you have done this, please submit this along with any stacktraces or assets to the [issue tracker](https://github.com/libgdx/libgdx/issues), whilst filling out the template that is shown when creating a new issue.
@@ -84,7 +84,8 @@ cd libgdx
 ```
 3. Importing the project:
 
-  a) Via IntelliJ/Android Studio:
+    a) <u>Via IntelliJ/Android Studio:</u>
+
      - File > Open > LibGDX root build.gradle
      - Import all projects
      - Wait until everything is synced and indexed
@@ -96,7 +97,7 @@ cd libgdx
 
 ![](/assets/images/dev/source/0.png)
 
-  b) Via Eclipse: File > Import > Gradle > Gradle project
+  b) <u>Via Eclipse:</u> File > Import > Gradle > Gradle project
 
 ### Building
 All of the other projects are hooked up and ready to test given that you have set up your system correctly, so give them a go.

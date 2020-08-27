@@ -1,6 +1,6 @@
 ---
 permalink: /dev/running/
-title: "Running the Project"
+title: "Running a Project"
 classes: wide2
 header:
   overlay_color: "#000"
