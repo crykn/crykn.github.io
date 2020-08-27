@@ -34,7 +34,7 @@ Our [wiki](https://github.com/libgdx/libgdx/wiki/A-Simple-Game) details how you 
 # Documentation
 The libGDX codebase is documented in two ways:
 - In our [Wiki](https://github.com/libgdx/libgdx/wiki)
-- And via the [Javadoc](https://libgdx.badlogicgames.com/ci/nightlies/docs/api/)
+- And via the [Javadocs](https://libgdx.badlogicgames.com/ci/nightlies/docs/api/)
 
 <br/>
 

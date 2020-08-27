@@ -82,7 +82,7 @@ Pull requests for the master repository will be checked by automation tools, and
 <br/>
 
 # How to contribute code
-LibGDX uses git, with our codebase situated on Github. In order to submit changes back to the official LibGDX project, you will need to fork the project, clone your fork, push changes back to your fork, and then submit a pull request based on your changes.
+LibGDX uses git, with our codebase situated on Github. In order to submit changes back to the official LibGDX project, you will need to fork the project, clone your fork, [work on its source](/dev/from_source/), push changes back to your fork, and then submit a pull request based on your changes.
 
 For a short yet very detailed explanation of how the system works, check out [this](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Forked-Public-Project).
 

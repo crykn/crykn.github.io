@@ -14,7 +14,7 @@ header:
 excerpt: "LibGDX offers a community-made setup tool, which automatically creates a project and downloads everything necessary."
 
 toc: true
-toc_sticky: false # =not on top
+toc_sticky: false
 ---
 
 If this is your first time using libGDX, you're at the right place. The following article details how you can get your fist libGDX project up and running.

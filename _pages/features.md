@@ -37,7 +37,7 @@ feature_row3:
 {% include feature_row id="feature_row3" type="left" %}
 
 # Feature Packed
-_libGDX comes with batteries included. Write 2D or 3D games, let libGDX worry about low-level details._
+_libGDX comes with batteries included. Write 2D or 3D games and let libGDX worry about low-level details._
 
 - LibGDX provides you with everything you need for proper **2D development** right out of the box.
 - **3D Graphics** are also supported via various high-level APIs. Take a look at our [showcase](/showcase/) to see some 3D games made with libGDX.

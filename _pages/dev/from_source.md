@@ -13,7 +13,7 @@ toc_sticky: false
 ---
 
 # Setting the Project Up
-If you want to contribute to libGDX itself, you need to get it set up on your local machine.For this, Android Studio is strongly recommended as IDE!
+If you want to work on the code of libGDX itself, you need to get it set up on your local machine. For this, Android Studio is strongly recommended as IDE!
 
 If you want to submit code back to the project, please also take a moment to review our [guidelines](/dev/contributing/).
 
