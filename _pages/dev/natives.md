@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Pankaj Patel**](https://unsplash.com/photos/bYiw48KLbmw)"
 
 toc: true
-toc_sticky: false # =not on top
+toc_sticky: false
 ---
 
 # Prerequisites

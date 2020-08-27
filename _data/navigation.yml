@@ -9,3 +9,30 @@ main:
     url: /dev/
   - title: "Community"
     url: /community/
+dev:
+  - title: "Getting Started"
+    children:
+      - title: "Set up a project"
+        url: /dev/setup/
+      - title: "Get it running"
+        url: /dev/running/
+  - title: "Documentation"
+    children:
+      - title: "Wiki"
+        url: https://github.com/libgdx/libgdx/wiki
+      - title: "Javadoc"
+        url: https://libgdx.badlogicgames.com/ci/nightlies/docs/api/
+  - title: "Tools & Frameworks"
+    children:
+      - title: "awesome-libgdx"
+        url: https://github.com/rafaskb/awesome-libgdx
+      - title: "Tools"
+        url: /dev/tools/
+  - title: "Contributing to libGDX"
+    children:
+      - title: "Contributing Guidelines"
+        url: /dev/contributing/
+      - title: "Working from source"
+        url: /dev/from_source/
+      - title: "Building the natives"
+        url: /dev/natives/
