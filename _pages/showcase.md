@@ -74,7 +74,7 @@ Survive and explore a procedurally generated planet and cave-system. Discover ol
 
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
-## [riiablo](https://github.com/collinsmith/riiablo) by collinsmith <a href="https://github.com/collinsmith/riiablo" style="margin-right: 10px" class="btn btn--primary">Also on GitHub</a> <span style="margin-left: 10px" class="btn btn--success">3D</span>
+## [riiablo](https://github.com/collinsmith/riiablo) by collinsmith <a href="https://github.com/collinsmith/riiablo" style="margin-right: 10px" class="btn btn--primary">Also on GitHub</a> <span class="btn btn--success">3D</span>
 <img align="right" src="https://media.giphy.com/media/f3pIneZddlMaFpFExx/giphy.gif" style="margin-left: 25px; margin-top: 17px; margin-bottom:20px; max-width: 460px; max-height: 240px;">
 
 Diablo II remade using Java and libGDX. As a hero of humanity, you must face the minions of Diablo's evil brothers and stop the Dark Wanderer before he fulfills his terrible destiny.
@@ -111,7 +111,7 @@ Grashers is a twin-stick shooter roguelike set in space where you play as an int
 <div style="clear: both;with: 100%; height: 1px;"></div>
 
 ## [Forsaken Portals](https://store.steampowered.com/app/1338220/Forsaken_Portals/) by Pottgames <span style="margin-left 10px" class="btn btn--success">3D</span>
-<img align="left" src="https://steamcdn-a.akamaihd.net/steam/apps/1338220/header.jpg?t=1596602601" style="margin-right 25px; margin-top: 17px; margin-bottom:10px">
+<img align="left" src="https://steamcdn-a.akamaihd.net/steam/apps/1338220/header.jpg?t=1596602601" style="margin-right: 25px; margin-top: 17px; margin-bottom:10px">
 
 Explore a huge universe on your journey on behalf of the Stellar Union. Trade with alien races, build your own space stations, collect resources and craft a wide variety of items. Upgrade your ship to defeat even the strongest enemies in the galaxy.
 
