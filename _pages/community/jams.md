@@ -13,6 +13,9 @@ excerpt: "Our community is also regularly hosting game jams for libGDX. Here is 
 toc: true
 toc_sticky: false
 ---
+
+{% include breadcrumbs.html %}
+
 # Upcoming
 If you want to stay up to date – join the official [libGDX discord](https://discord.gg/6pgDK9F)!
 

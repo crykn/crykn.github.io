@@ -24,8 +24,8 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/features/ecosystem.png
-    title: "Extensive third party ecosystem"
-    excerpt: 'LibGDX offers a very extensive third party ecosystem. There are numerous [tools](/dev/tools/) and libraries that take a lot of work off the hands of developers. [Awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) is a curated list of libGDX-centered **libraries** and a good starting point for anyone new in the libGDX world.'
+    title: "Extensive third-party ecosystem"
+    excerpt: 'LibGDX offers a very extensive third-party ecosystem. There are numerous [tools](/dev/tools/) and libraries that take a lot of work off the hands of developers. [Awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) is a curated list of libGDX-centered **libraries** and a good starting point for anyone new in the libGDX world.'
     url: "https://github.com/rafaskb/awesome-libgdx"
     btn_label: "Check out awesome-libgdx"
     btn_class: "btn--primary"
@@ -40,7 +40,7 @@ feature_row3:
 # Feature Packed
 _libGDX comes with batteries included. Write 2D or 3D games and let libGDX worry about low-level details._
 
-- LibGDX provides you with everything you need for proper **2D development** right out of the box.
+- LibGDX provides you with everything you need for proper **2D development**, right out-of-the-box.
 - **3D Graphics** are also supported via various high-level APIs. Take a look at our [showcase](/showcase/) to see some 3D games made with libGDX.
 - **Super Fast:** Heavy emphasis was put on avoiding garbage collection for Dalvik/JavaScript by careful API design and the use of custom collections.
 - **Small game sizes:** libGDX games can be very small – starting from around a couple MBs for Android games and even less than <60 MB for desktop projects with a bundled JRE

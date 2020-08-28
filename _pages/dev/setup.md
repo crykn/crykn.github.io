@@ -15,7 +15,10 @@ excerpt: "LibGDX offers a community-made setup tool, which automatically creates
 
 toc: true
 toc_sticky: false
+
 ---
+
+{% include breadcrumbs.html %}
 
 If this is your first time using libGDX, you're at the right place. The following article details how you can get your fist libGDX project up and running.
 

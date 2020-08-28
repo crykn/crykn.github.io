@@ -1,7 +1,7 @@
 ---
 permalink: /dev/tools/
 title: "Tools"
-classes: wide2
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
@@ -70,7 +70,12 @@ feature_row3:
     btn_label: "Documentation & Download"
     btn_class: "btn--primary"
 
+sidebar:
+  nav: "dev"
+
 ---
+
+{% include breadcrumbs.html %}
 
 {% include feature_row %}
 

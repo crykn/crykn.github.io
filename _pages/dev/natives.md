@@ -10,7 +10,10 @@ header:
 
 toc: true
 toc_sticky: false
+
 ---
+
+{% include breadcrumbs.html %}
 
 # Prerequisites
 Building the natives is slightly more involved. The natives are built for every platform we target:

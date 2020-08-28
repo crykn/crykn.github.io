@@ -9,8 +9,12 @@ header:
   caption: "Photo credit: [**Florian Olivo**](https://unsplash.com/photos/Ek9Znm8lQ1U)"
 
 toc: true
-toc_sticky: false # =not on top
+toc_sticky: false
+
+
 ---
+
+{% include breadcrumbs.html %}
 
 Contributing to LibGDX can come in a few different forms, you can help out on the forums and irc, pledge to the patreon page, and submit code and documentation back to the project on github.
 

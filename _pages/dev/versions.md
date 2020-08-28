@@ -1,13 +1,18 @@
 ---
 permalink: /dev/versions/
 title: "Versions"
-classes: wide2
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/dev/dev.jpeg
   caption: "Photo credit: [**Florian Olivo**](https://unsplash.com/photos/Ek9Znm8lQ1U)"
+
+sidebar:
+  nav: "dev"
 ---
+
+{% include breadcrumbs.html %}
 
 # libGDX 1.9.11
 Keep up to date with the latest versions of dependencies and dev tools!

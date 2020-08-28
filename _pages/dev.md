@@ -19,7 +19,6 @@ excerpt: "LibGDX is hosted on Github, where all team members collaborate. Fork, 
 
 sidebar:
   nav: "dev"
-
 ---
 
 # How to get started with libGDX?

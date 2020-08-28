@@ -12,6 +12,8 @@ toc: true
 toc_sticky: false
 ---
 
+{% include breadcrumbs.html %}
+
 # Setting the Project Up
 If you want to work on the code of libGDX itself, you need to get it set up on your local machine. For this, Android Studio is strongly recommended as IDE!
 
